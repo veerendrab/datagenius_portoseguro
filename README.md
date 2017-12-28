@@ -3,7 +3,7 @@
 This repo aims to break down top Kaggle solutions as a more accessible learning tool.
 
 ## Completed Notebooks
-notebook0.ipynb - Introduction
+[notebook0.ipynb](https://github.com/lwcj/datagenius_portoseguro/blob/master/notebook0.ipynb) - Introduction
 
 ## Coming soon
 notebook1.ipynb - Exploring Michael Jahrer's first place solution
